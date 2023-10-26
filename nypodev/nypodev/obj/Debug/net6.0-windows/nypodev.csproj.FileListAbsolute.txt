@@ -1,0 +1,32 @@
+C:\Users\musta\OneDrive\Masaüstü\c# ödev\nypodev\nypodev\bin\Debug\net6.0-windows\nypodev.exe
+C:\Users\musta\OneDrive\Masaüstü\c# ödev\nypodev\nypodev\bin\Debug\net6.0-windows\nypodev.deps.json
+C:\Users\musta\OneDrive\Masaüstü\c# ödev\nypodev\nypodev\bin\Debug\net6.0-windows\nypodev.runtimeconfig.json
+C:\Users\musta\OneDrive\Masaüstü\c# ödev\nypodev\nypodev\bin\Debug\net6.0-windows\nypodev.dll
+C:\Users\musta\OneDrive\Masaüstü\c# ödev\nypodev\nypodev\bin\Debug\net6.0-windows\nypodev.pdb
+C:\Users\musta\OneDrive\Masaüstü\c# ödev\nypodev\nypodev\obj\Debug\net6.0-windows\nypodev.Form1.resources
+C:\Users\musta\OneDrive\Masaüstü\c# ödev\nypodev\nypodev\obj\Debug\net6.0-windows\nypodev.csproj.GenerateResource.cache
+C:\Users\musta\OneDrive\Masaüstü\c# ödev\nypodev\nypodev\obj\Debug\net6.0-windows\nypodev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\OneDrive\Masaüstü\c# ödev\nypodev\nypodev\obj\Debug\net6.0-windows\nypodev.AssemblyInfoInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\c# ödev\nypodev\nypodev\obj\Debug\net6.0-windows\nypodev.AssemblyInfo.cs
+C:\Users\musta\OneDrive\Masaüstü\c# ödev\nypodev\nypodev\obj\Debug\net6.0-windows\nypodev.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\c# ödev\nypodev\nypodev\obj\Debug\net6.0-windows\nypodev.dll
+C:\Users\musta\OneDrive\Masaüstü\c# ödev\nypodev\nypodev\obj\Debug\net6.0-windows\refint\nypodev.dll
+C:\Users\musta\OneDrive\Masaüstü\c# ödev\nypodev\nypodev\obj\Debug\net6.0-windows\nypodev.pdb
+C:\Users\musta\OneDrive\Masaüstü\c# ödev\nypodev\nypodev\obj\Debug\net6.0-windows\nypodev.genruntimeconfig.cache
+C:\Users\musta\OneDrive\Masaüstü\c# ödev\nypodev\nypodev\obj\Debug\net6.0-windows\ref\nypodev.dll
+C:\Users\musta\OneDrive\Masaüstü\Nyp\nypodev\nypodev\bin\Debug\net6.0-windows\nypodev.exe
+C:\Users\musta\OneDrive\Masaüstü\Nyp\nypodev\nypodev\bin\Debug\net6.0-windows\nypodev.deps.json
+C:\Users\musta\OneDrive\Masaüstü\Nyp\nypodev\nypodev\bin\Debug\net6.0-windows\nypodev.runtimeconfig.json
+C:\Users\musta\OneDrive\Masaüstü\Nyp\nypodev\nypodev\bin\Debug\net6.0-windows\nypodev.dll
+C:\Users\musta\OneDrive\Masaüstü\Nyp\nypodev\nypodev\bin\Debug\net6.0-windows\nypodev.pdb
+C:\Users\musta\OneDrive\Masaüstü\Nyp\nypodev\nypodev\obj\Debug\net6.0-windows\nypodev.Form1.resources
+C:\Users\musta\OneDrive\Masaüstü\Nyp\nypodev\nypodev\obj\Debug\net6.0-windows\nypodev.csproj.GenerateResource.cache
+C:\Users\musta\OneDrive\Masaüstü\Nyp\nypodev\nypodev\obj\Debug\net6.0-windows\nypodev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\OneDrive\Masaüstü\Nyp\nypodev\nypodev\obj\Debug\net6.0-windows\nypodev.AssemblyInfoInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\Nyp\nypodev\nypodev\obj\Debug\net6.0-windows\nypodev.AssemblyInfo.cs
+C:\Users\musta\OneDrive\Masaüstü\Nyp\nypodev\nypodev\obj\Debug\net6.0-windows\nypodev.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\Nyp\nypodev\nypodev\obj\Debug\net6.0-windows\nypodev.dll
+C:\Users\musta\OneDrive\Masaüstü\Nyp\nypodev\nypodev\obj\Debug\net6.0-windows\refint\nypodev.dll
+C:\Users\musta\OneDrive\Masaüstü\Nyp\nypodev\nypodev\obj\Debug\net6.0-windows\nypodev.pdb
+C:\Users\musta\OneDrive\Masaüstü\Nyp\nypodev\nypodev\obj\Debug\net6.0-windows\nypodev.genruntimeconfig.cache
+C:\Users\musta\OneDrive\Masaüstü\Nyp\nypodev\nypodev\obj\Debug\net6.0-windows\ref\nypodev.dll
